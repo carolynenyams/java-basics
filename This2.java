@@ -1,3 +1,8 @@
+/*
+
+The this() constructor call can be used to invoke the current class constructor (constructor chaining). This approach is better if you have many constructors in the class and want to reuse that constructor.
+*/
+
 class This2  {
 
 
